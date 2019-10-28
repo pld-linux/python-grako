@@ -10,7 +10,7 @@
 Summary:	Python grammar compiler, EBNF input, PEG/Packrat parser output
 Name:		python-%{pypi_name}
 Version:	3.18.1
-Release:	2
+Release:	3
 License:	BSD
 Group:		Libraries/Python
 Source0:	https://pypi.io/packages/source/g/%{pypi_name}/%{pypi_name}-%{version}.tar.gz
